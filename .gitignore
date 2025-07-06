@@ -1,0 +1,4 @@
+# Ignore archive directory
+archive/
+errors.md
+.vscode/
